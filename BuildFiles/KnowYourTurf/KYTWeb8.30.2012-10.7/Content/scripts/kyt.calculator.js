@@ -1,0 +1,3 @@
+if (!KYT) var KYT = {};
+
+

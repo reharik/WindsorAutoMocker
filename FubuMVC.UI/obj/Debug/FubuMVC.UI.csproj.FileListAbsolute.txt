@@ -1,0 +1,8 @@
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\bin\Debug\FubuMVC.UI.dll
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\bin\Debug\FubuMVC.UI.pdb
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\bin\Debug\FubuMVC.Core.dll
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\bin\Debug\HtmlTags.dll
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\obj\Debug\FubuMVC.UI.dll
+C:\Users\RHarik\Documents\Reflector\Disassembler\FubuMVC.UI\obj\Debug\FubuMVC.UI.pdb
