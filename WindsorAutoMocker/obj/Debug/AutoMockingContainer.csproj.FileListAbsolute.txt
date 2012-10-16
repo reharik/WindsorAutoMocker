@@ -1,0 +1,16 @@
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\AutoMockingContainer.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\AutoMockingContainer.pdb
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Castle.DynamicProxy2.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\QuickGraph.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\TestFu.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\QuickGraph.Algorithms.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Refly.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Castle.Core.pdb
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Castle.MicroKernel.pdb
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Castle.Windsor.pdb
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\MbUnit.Framework.xml
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\Castle.DynamicProxy2.pdb
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\bin\Debug\TestFu.xml
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\obj\Debug\AutoMockingContainer.csprojResolveAssemblyReference.cache
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\obj\Debug\AutoMockingContainer.dll
+C:\ExternalCode\AutoMockingContainer\AutoMockingContainer\obj\Debug\AutoMockingContainer.pdb
